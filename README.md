@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Software Engineering as a student.<br>I'm a NVQ Level 4 Computer Hardware Technician.
+<h4 align="center">I'm currently studying Software Engineering as a student.<br>I'm a NVQ Level 4 Computer Hardware Technician.</h4>
 
 
 ## 🌐 Socials:
