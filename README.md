@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **React.js,Spring Boot,Angular**
 
-- ☁️ I've keen interest in Full Satck Developing. So,I'm learning **React.js,Nest.js**
+- ☁️ I've keen interest in Full Satck Developing. So,I'm learning **React.js,Spring Boot**
 
 - 📝 I write articles on [Sithum Sandaruwan-Medium](https://medium.com/@sithumsandaruwan200123)
 
