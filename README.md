@@ -38,7 +38,6 @@
 ![sithum's github stats](https://github-readme-stats.vercel.app/api?username=sithum-sandaruwan&show_icons=true&theme=react)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sithum-sandaruwan&langs_count=8&theme=react&layout=compact)
 
-<br><br>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
