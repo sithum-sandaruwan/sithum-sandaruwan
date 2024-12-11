@@ -35,7 +35,7 @@
 <p align="center" >
   <!--- stats (start) -->
 
-| ![sithum's github stats](https://github-readme-stats.vercel.app/api?username=sithum-sandaruwan&show_icons=true&theme=react)             | ![sithum's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sithum-sandaruwan&theme=react)                                                                                                           |
+| ![sithum's github stats](https://github-readme-stats.vercel.app/api?username=sithum-sandaruwan&show_icons=true&theme=react)             |                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sithum-sandaruwan&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sithum-sandaruwan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
