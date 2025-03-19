@@ -17,9 +17,9 @@
 
   <img align="right" top="500" height="190" width="300" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
-- 🔭 I’m currently working on **React.js,Spring Boot,Angular**
+- 🔭 I’m currently working on **Next.js,Spring Boot,Angular**
 
-- ☁️ I've keen interest in Full Satck Developing. So,I'm learning **React.js,Spring Boot**
+- ☁️ I've keen interest in Full Satck Developing. So,I'm learning **Next.js,Express.js**
 
 - 📝 I write articles on [Sithum Sandaruwan-Medium](https://medium.com/@sithumsandaruwan200123)
 
